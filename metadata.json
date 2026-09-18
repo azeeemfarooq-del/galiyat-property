@@ -1,0 +1,6 @@
+{
+  "name": "Galiyat Property Consultant",
+  "description": "Premium real estate consultancy website for Galiyat, Nathia Gali, Ayubia, Kalabagh and Murree with automated inquiry responses and live chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
